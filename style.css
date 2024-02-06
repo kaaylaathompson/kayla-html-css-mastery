@@ -3,7 +3,7 @@ html {
   font-size: 62.5%;
 }
 
-header,figure, aside {
+header, figure, section {
   max-width: 620px;
   margin-top: 20px;
   margin-right: auto;
@@ -75,7 +75,7 @@ ol {
   list-style-position: inside;
 }
 
-aside {
+section {
   background-color: #CCC;
   padding: 12px;
 }
